@@ -6,3 +6,9 @@ O Visual Studio Code é um editor de código-fonte desenvolvido pela Microsoft p
 
 # o que é git?
 Git é um sistema de controle de versões distribuído, usado principalmente no desenvolvimento de software, mas pode ser usado para registrar o histórico de edições de qualquer tipo de arquivo.
+
+
+#Links Utilizados
+https://pt.wikipedia.org/wiki/GitHub
+https://pt.wikipedia.org/wiki/Visual_Studio_Code
+https://pt.wikipedia.org/wiki/Git
