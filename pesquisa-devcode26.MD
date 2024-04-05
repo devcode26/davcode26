@@ -10,5 +10,7 @@ Git é um sistema de controle de versões distribuído, usado principalmente no 
 
 #Links Utilizados
 https://pt.wikipedia.org/wiki/GitHub
+
 https://pt.wikipedia.org/wiki/Visual_Studio_Code
+
 https://pt.wikipedia.org/wiki/Git
