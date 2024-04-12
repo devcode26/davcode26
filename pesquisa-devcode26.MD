@@ -1,14 +1,23 @@
 # o que é github?
 GitHub é uma plataforma de hospedagem de código-fonte e arquivos com controle de versão usando o Git. Ele permite que programadores, utilitários ou qualquer usuário cadastrado na plataforma contribuam em projetos privados e/ou Open Source de qualquer lugar do mundo.
+
 ![image](https://beecrowd.io/wp-content/uploads/2022/08/Beecrowd-Agosto-6-02-larger.png)
 
+
+
+
 # o que é Vs code?
-![image](https://code.visualstudio.com/assets/updates/1_58/terminal-editor-grid.png)
 
 O Visual Studio Code é um editor de código-fonte desenvolvido pela Microsoft para Windows, Linux e macOS. Ele inclui suporte para depuração, controle de versionamento Git incorporado, realce de sintaxe, complementação inteligente de código, snippets e refatoração de código.
 
+![image](https://code.visualstudio.com/assets/updates/1_58/terminal-editor-grid.png)
+
+
+
 # o que é git?
 Git é um sistema de controle de versões distribuído, usado principalmente no desenvolvimento de software, mas pode ser usado para registrar o histórico de edições de qualquer tipo de arquivo.
+
+![image](https://learn.microsoft.com/pt-br/visualstudio/version-control/media/vs-2022/git-repository-browse-ui.png?view=vs-2022)
 
 
 #Links Utilizados
